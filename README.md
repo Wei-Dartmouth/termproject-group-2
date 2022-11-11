@@ -4,4 +4,4 @@
 
 Also see https://github.com/PatrickNiccolai2/covid_data for our dataset along with and the script used to download the Tweets through the Twitter API and the script to download and use BERTsent on the Tweets.
 
-Our main work is in the BERTsent folder, Andrea's part of topic modeling is in BERTopic. Xiaoyu's part is also in BERTsent, with notation noted.
+Our main code is in the BERTsent. Andrea's part of topic modeling is in BERTopic. Xiaoyu's part is also in BERTsent, with notation noted.
